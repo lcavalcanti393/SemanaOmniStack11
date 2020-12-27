@@ -9,7 +9,7 @@ A aplicação **Be The Hero**, desenvolvida durante a versão 11 da Semana OmniS
 
 No projeto foram utilizadas as seguintes tecnologias:
 
-    -   [Node](https://nodejs.org)
-    -   [React](https://reactjs.org)
-    -   [React Native](https://facebook.github.io/react-native)
-    -   [Expo](https://expo.io)
+ -   [Node](https://nodejs.org)
+ -   [React](https://reactjs.org)
+ -   [React Native](https://facebook.github.io/react-native)
+ -   [Expo](https://expo.io)
